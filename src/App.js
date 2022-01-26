@@ -5,10 +5,8 @@ import Title from './Title';
 function App() {
   return (
     <div className="App">
-      <img src={logo} />
       <Title />
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
